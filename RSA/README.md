@@ -1,1 +1,1 @@
-it decrypts private key with given public key
+this app decrypts private key with given public key
