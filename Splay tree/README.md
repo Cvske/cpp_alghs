@@ -28,7 +28,9 @@ z
 Lekcja historii
 z
 Wszyscy pokutujemy
-Przykładowe wyjście:
+```
+## Przykładowe wyjście:
+```
 Wszyscy jedziemy...
 Lekcja historii
 Zielone żabki
