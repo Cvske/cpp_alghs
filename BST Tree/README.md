@@ -4,8 +4,9 @@ W pierwszej linii wejścia znajduje się liczba naturalna n, która jest ilości
 0 <= n, k, a, b, wartości wpływów politycznych dla tropów <= 2000000000
 ```
 ## WYJŚCIE
+```
 Na wyjściu program powinien wypisać parę wartości wpływów poglądów politycznych tropów, które spełniałyby wartość k lub “NIE ZNALEZIONO” w przeciwnym wypadku. Wartości pary powinny być wypisane w kolejności niemalejącej.
-
+```
 ## PRZYKŁADOWE DANE WEJŚCIOWE
 ```
 7                                                                               
