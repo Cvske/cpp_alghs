@@ -9,14 +9,15 @@ Pierwsza linia wejścia zawiera liczbę całkowitą t - liczbę zestawów danych
 1 ≤ a, b ≤ n
 ```
 ## Wyjście:
-```
+
 Dla każdego zestawu danych program powinien wypisać jedną linię zawierającą napis
 
 TAK
 , jeśli liczba wolontariuszy jest wystarczająca albo
 NIE
 w przeciwnym przypadku.
-Przykładowe wejście:
+## Przykładowe wejście:
+```
 3
 2 1 1
 1 2
