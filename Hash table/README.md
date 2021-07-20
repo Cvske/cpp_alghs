@@ -37,4 +37,4 @@ Zielone żabki
 Defekt muzgó
 ```
 Uwaga:
-Zadanie ma zostać rozwiązane przy pomocy samodzielnie zaimplementowanych drzew splay.
+Zadanie ma zostać rozwiązane przy pomocy samodzielnie zaimplementowanych tablic haszujących.
