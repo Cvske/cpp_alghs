@@ -1,7 +1,7 @@
 ## Wejście:
-```
-Pierwsza linia wejścia zawiera liczbę całkowitą t - liczbę zestawów danych, których opisy występują kolejno po sobie. W pierwszej linii zestawu danych podane są trzy liczby naturalne n, m i r - odpowiednio liczba stacji kolejowych , liczba odcinków kolejowych bezpośrednio łączących ze sobą dwie stacje kolejowe oraz liczba wolontariuszy. Każda z kolejnych m linii zawiera dwie liczby naturalne a i b - numery stacji kolejowych połączonych bezpośrednim odcinkiem torów.
 
+Pierwsza linia wejścia zawiera liczbę całkowitą t - liczbę zestawów danych, których opisy występują kolejno po sobie. W pierwszej linii zestawu danych podane są trzy liczby naturalne n, m i r - odpowiednio liczba stacji kolejowych , liczba odcinków kolejowych bezpośrednio łączących ze sobą dwie stacje kolejowe oraz liczba wolontariuszy. Każda z kolejnych m linii zawiera dwie liczby naturalne a i b - numery stacji kolejowych połączonych bezpośrednim odcinkiem torów.
+```
 1 ≤ t ≤ 150
 1 ≤ n ≤ 30
 1 ≤ m ≤ 100
